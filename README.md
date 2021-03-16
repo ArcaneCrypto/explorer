@@ -5,8 +5,13 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [List of live explorers running Iquidus](https://github.com/iquidus/explorer/wiki/Live-Explorers)
-
+http://explorer.mousecoin.network
+http://explorer.mousemn.com
+http://rnrc.blockexplorer.monster
+http://explorer.tokemon.tk
+http://explorer.consortium.center
+http://explorer.ratcoin.network
+http://explorer.metropolitancoin.net
 
 *Note: If you would like your instance mentioned here contact me*
 
